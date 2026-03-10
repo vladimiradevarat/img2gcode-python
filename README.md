@@ -28,8 +28,9 @@
 
 This tool eliminates the need for complex CAM software for simple engravings, offering a fast, offline, and user-friendly interface with advanced production features.
 
-<img width="524" height="548" alt="image" src="https://github.com/user-attachments/assets/7e39ad2c-e840-4654-a3ae-0e37f4f6da00" />
-
+<p align="center">
+  <img width="524" height="548" alt="image" src="https://github.com/user-attachments/assets/7e39ad2c-e840-4654-a3ae-0e37f4f6da00" />
+</p>
 <div style="background-color: #e6f7ff; border-left: 4px solid #1890ff; padding: 15px; margin-bottom: 20px; font-family: sans-serif;">
     <strong>🌐 Prefer a Web Version?</strong> No installation or download required! Try the fully functional browser-based version directly at: <a href="https://img2gcode.nedelq.ro/" target="_blank" style="color: #1890ff; font-weight: bold; text-decoration: none;">img2gcode.nedelq.ro</a>
 </div>
